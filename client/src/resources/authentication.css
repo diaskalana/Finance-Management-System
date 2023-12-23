@@ -1,0 +1,40 @@
+.register {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+}
+.lottie {
+  height: 400px;
+}
+
+.register input {
+  background-color: transparent;
+  /* border: none; */
+  /* border: 1px solid rgb(98, 98, 98); */
+}
+
+label,
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+}
+.register h1 {
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+  text-align: start;
+  font-family: "Montserrat", sans-serif;
+}
+button {
+  font-family: "Montserrat", sans-serif;
+  border-radius: 3px;
+}
+
+.user-form {
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+}

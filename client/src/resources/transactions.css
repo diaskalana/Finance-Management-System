@@ -1,0 +1,38 @@
+.filter {
+  box-shadow: 0 0 3px grey;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+table {
+  font-family: "Montserrat", sans-serif !important;
+}
+.ant-picker-clear {
+  display: none;
+}
+.view-switch {
+  border: 1px solid rgba(0, 0, 0, 0.478);
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.anticon svg {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.active-icon {
+  color: black;
+}
+
+.inactive-icon {
+  color: grey;
+}
+
+.secondary {
+  background-color: #545f71;
+  padding: 5px 20px;
+  color: white;
+  border: none;
+}
+.secondary:hover {
+  color: white !important;
+}
